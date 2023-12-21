@@ -2,12 +2,12 @@ import { initializeApp } from 'firebase/app'
 import { getAuth } from 'firebase/auth'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAJKLqiAIR6Ot1M2iQwqbBqxlAdwbVtRrw",
-  authDomain: "alphabi-assignment.firebaseapp.com",
-  projectId: "alphabi-assignment",
-  storageBucket: "alphabi-assignment.appspot.com",
-  messagingSenderId: "476775138185",
-  appId: "1:476775138185:web:5bb6902617f5d63945d758"
+  apiKey: "AIzaSyASDrOP7_Wpd8G0HlODeb0FKgh6b1oeoMw",
+  authDomain: "alpha-bi-project.firebaseapp.com",
+  projectId: "alpha-bi-project",
+  storageBucket: "alpha-bi-project.appspot.com",
+  messagingSenderId: "159446290301",
+  appId: "1:159446290301:web:152b036737c44114e14614"
 };
 
 const app = initializeApp(firebaseConfig)
